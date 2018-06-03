@@ -1,7 +1,7 @@
 ---
-output: 
-  html_document: 
-    keep_md: yes
+title: "ShinyApp_Pitch2"
+author: "TSAI  YI- FAN"
+date: "2018/6/03/"
 ---
 Why is the ShinyApp - Basic Introduction to ggplot2 needed?
 ======
