@@ -5,8 +5,7 @@ date: "2018/6/03/"
 ---
 ShinyApp Pitch for "Basic Introduction to ggplot2"
 =====================================================  
-author: Suresh Babu Kumpati using R version 3.4.3 (2017-11-30) and knitr version 1.20
-date: ¤»¤ë 03, 2018
+
 transition: rotate
 incremental: true
 
