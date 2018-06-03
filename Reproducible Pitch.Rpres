@@ -35,7 +35,7 @@ require(ggplot2)
 g = ggplot(mpg, aes(x=cyl, y=hwy, colour=class)) + facet_wrap(~drv) + geom_point()
 ```
 ```{r, echo=FALSE, fig.width=8, fig.height=3, dpi=120}
-g
+
 ```
 
 Try the ShinyApp "Basic Introduction to ggplot2" Today!
